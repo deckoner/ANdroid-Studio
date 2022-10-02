@@ -7,4 +7,9 @@
     <string name="resultado">Resultado:</string>
     <string name="introducirValo1">Introduce PRIMER valor:</string>
     <string name="introducirValo2">Introducir SEGUNDO valor:</string>
+    <string name="titulo">EJERCICIOS</string>
+    <string name="botonCalculadora">Calculadora</string>
+    <string name="botonFondoPantalla">Fondo de pantalla</string>
+    <string name="botonComprobarDNI">Comprobar DNI</string>
+    <string name="botonDomotica">Domotica FAKE</string>
 </resources>
