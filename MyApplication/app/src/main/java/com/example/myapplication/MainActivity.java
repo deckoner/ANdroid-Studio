@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
     private Button btnComprobarDNI;
     private Button btnFPantalla;
     private Button btnDomotica;
+    private Button btnLogos;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -22,6 +23,7 @@ public class MainActivity extends AppCompatActivity {
         btnComprobarDNI = findViewById(R.id.btnComprobarDNI);
         btnFPantalla = findViewById(R.id.btnFPantalla);
         btnDomotica = findViewById(R.id.btnDomotica);
+        btnLogos = findViewById(R.id.btnLogos);
 
         btnCalculadora.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
@@ -33,6 +35,20 @@ public class MainActivity extends AppCompatActivity {
         btnFPantalla.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
                 Intent intent = new Intent(MainActivity.this, FondoEstrella.class);
+                startActivity(intent);
+            }
+        });
+
+        btnComprobarDNI.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                Intent intent = new Intent(MainActivity.this, ComprobarDNI.class);
+                startActivity(intent);
+            }
+        });
+
+        btnLogos.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                Intent intent = new Intent(MainActivity.this, Logos.class);
                 startActivity(intent);
             }
         });

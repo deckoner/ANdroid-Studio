@@ -12,4 +12,12 @@
     <string name="botonFondoPantalla">Fondo de pantalla</string>
     <string name="botonComprobarDNI">Comprobar DNI</string>
     <string name="botonDomotica">Domotica FAKE</string>
+    <string name="botonLogos">Logos</string>
+    <string name="botonYahoo">YAHOO</string>
+    <string name="botonBing">BING</string>
+    <string name="botonGoogle">GOOGLE</string>
+    <string name="introDNI">Introduce un DNI:</string>
+    <string name="valiDNI">VALIDAR DNI</string>
+    <string name="nDNI">Numero DNI</string>
+    <string name="letra">Letra</string>
 </resources>

@@ -20,12 +20,12 @@ public class FondoEstrella extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_fondo_estrella);
 
+        //Cogemos los botones mas el Layaout
         btnEstrella = findViewById(R.id.buttonStrellita);
         btnEstrella2 = findViewById(R.id.buttonStrellita2);
-
-
         constraintL = findViewById(R.id.constraintL);
 
+        //Preparamos las funciones mas el evento onClick para cambiar el fondo
         btnEstrella.setOnClickListener(new View.OnClickListener() {
             @SuppressLint("ResourceAsColor")
             public void onClick(View v) {

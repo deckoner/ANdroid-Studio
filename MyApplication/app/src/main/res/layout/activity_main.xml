@@ -51,6 +51,15 @@
             android:textSize="20sp" />
 
         <Button
+            android:id="@+id/btnLogos"
+            android:layout_width="153dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="15dp"
+            android:gravity="center"
+            android:text="@string/botonLogos"
+            android:textSize="20sp" />
+
+        <Button
             android:id="@+id/btnDomotica"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
