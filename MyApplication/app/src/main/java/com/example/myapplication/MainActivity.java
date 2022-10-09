@@ -52,5 +52,12 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(intent);
             }
         });
+
+        btnDomotica.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                Intent intent = new Intent(MainActivity.this, Domotica.class);
+                startActivity(intent);
+            }
+        });
     }
 }

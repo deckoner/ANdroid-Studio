@@ -7,8 +7,9 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.ImageView;
+import android.widget.Toast;
 
-public class Logos extends AppCompatActivity {
+public class Logos extends AppCompatActivity implements View.OnClickListener{
 
     private Button btnYahoo, btnBing, btnGoogle;
     private ImageView ivLogos;
@@ -24,14 +25,25 @@ public class Logos extends AppCompatActivity {
 
         ivLogos = findViewById(R.id.ivLogos);
 
+       btnBing.setOnClickListener(this);
 
         btnGoogle.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
 
-                ivLogos.setImageDrawable(@drawable/google.png);
+                ivLogos.setImageResource(R.drawable.google);
             }
         });
 
 
     }
+
+    // Un metodo en desuso para una pagina en desuso
+    public void ponerYahooLLogo(View view) {
+        ivLogos.setImageResource(R.drawable.yahoo);
+    }
+
+    public void onClick(View view) {
+        ivLogos.setImageResource(R.drawable.bing);
+    }
+
 }

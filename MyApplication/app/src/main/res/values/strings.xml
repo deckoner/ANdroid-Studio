@@ -20,4 +20,13 @@
     <string name="valiDNI">VALIDAR DNI</string>
     <string name="nDNI">Numero DNI</string>
     <string name="letra">Letra</string>
+    <string name="palito">-</string>
+    <string name="correcto">Valido</string>
+    <string name="incorrecto">Invalido</string>
+    <string name="Encender">Encender luces</string>
+    <string name="colorluces">Color Luces</string>
+    <string name="respiracion">Respiracion</string>
+    <string name="normal">Normal</string>
+    <string name="circular">Circular</string>
+    <string name="modoColor">Seleccion de color</string>
 </resources>
