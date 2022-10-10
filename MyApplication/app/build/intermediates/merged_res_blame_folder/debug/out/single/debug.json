@@ -1,230 +1,222 @@
 [
     {
-        "merged": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\drawable-hdpi_ic_estrellanegra.png.flat",
-        "source": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-debug-30:\\drawable-hdpi\\ic_estrellanegra.png"
+        "merged": "com.example.myapplication.app-merged_res-29:/layout_activity_comprobar_dni.xml.flat",
+        "source": "com.example.myapplication.app-main-31:/layout/activity_comprobar_dni.xml"
     },
     {
-        "merged": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\layout_activity_comprobar_dni.xml.flat",
-        "source": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-31:\\layout\\activity_comprobar_dni.xml"
+        "merged": "com.example.myapplication.app-merged_res-29:/drawable-xxhdpi_ic_estrellanegra.png.flat",
+        "source": "com.example.myapplication.app-debug-30:/drawable-xxhdpi/ic_estrellanegra.png"
     },
     {
-        "merged": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-31:\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "com.example.myapplication.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.myapplication.app-main-31:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\layout_activity_domotica.xml.flat",
-        "source": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-31:\\layout\\activity_domotica.xml"
+        "merged": "com.example.myapplication.app-merged_res-29:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.myapplication.app-main-31:/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "com.example.myapplication.app-merged_res-29:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.myapplication.app-main-31:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-31:\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "com.example.myapplication.app-merged_res-29:/drawable-anydpi_ic_estrellanegra.xml.flat",
+        "source": "com.example.myapplication.app-debug-30:/drawable-anydpi/ic_estrellanegra.xml"
     },
     {
-        "merged": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\drawable-anydpi_ic_bombillaroja.xml.flat",
-        "source": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-31:\\drawable-anydpi\\ic_bombillaroja.xml"
+        "merged": "com.example.myapplication.app-merged_res-29:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.myapplication.app-main-31:/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\drawable-xxhdpi_ic_estrellamorada.png.flat",
-        "source": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-debug-30:\\drawable-xxhdpi\\ic_estrellamorada.png"
+        "merged": "com.example.myapplication.app-merged_res-29:/drawable-xxhdpi_ic_bombillaoff.png.flat",
+        "source": "com.example.myapplication.app-main-31:/drawable-xxhdpi/ic_bombillaoff.png"
     },
     {
-        "merged": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-31:\\xml\\data_extraction_rules.xml"
+        "merged": "com.example.myapplication.app-merged_res-29:/drawable-v24_bing.jpg.flat",
+        "source": "com.example.myapplication.app-main-31:/drawable-v24/bing.jpg"
     },
     {
-        "merged": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-31:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "com.example.myapplication.app-merged_res-29:/drawable-xxhdpi_ic_action_name.png.flat",
+        "source": "com.example.myapplication.app-main-31:/drawable-xxhdpi/ic_action_name.png"
     },
     {
-        "merged": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-31:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "com.example.myapplication.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.myapplication.app-main-31:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-31:\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "com.example.myapplication.app-merged_res-29:/drawable-anydpi_ic_estrellamorada.xml.flat",
+        "source": "com.example.myapplication.app-debug-30:/drawable-anydpi/ic_estrellamorada.xml"
     },
     {
-        "merged": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\drawable-hdpi_ic_bombillaoff.png.flat",
-        "source": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-31:\\drawable-hdpi\\ic_bombillaoff.png"
+        "merged": "com.example.myapplication.app-merged_res-29:/drawable-hdpi_ic_estrellamorada.png.flat",
+        "source": "com.example.myapplication.app-debug-30:/drawable-hdpi/ic_estrellamorada.png"
     },
     {
         "merged": "com.example.myapplication.app-merged_res-29:/layout_activity_domotica.xml.flat",
         "source": "com.example.myapplication.app-main-31:/layout/activity_domotica.xml"
     },
     {
-        "merged": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\drawable-mdpi_ic_bombillaroja.png.flat",
-        "source": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-31:\\drawable-mdpi\\ic_bombillaroja.png"
+        "merged": "com.example.myapplication.app-merged_res-29:/drawable-xhdpi_ic_bombillaroja.png.flat",
+        "source": "com.example.myapplication.app-main-31:/drawable-xhdpi/ic_bombillaroja.png"
     },
     {
-        "merged": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\drawable-hdpi_ic_action_name.png.flat",
-        "source": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-31:\\drawable-hdpi\\ic_action_name.png"
+        "merged": "com.example.myapplication.app-merged_res-29:/drawable-xhdpi_ic_action_name.png.flat",
+        "source": "com.example.myapplication.app-main-31:/drawable-xhdpi/ic_action_name.png"
     },
     {
-        "merged": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\drawable-xxhdpi_ic_bombillaoff.png.flat",
-        "source": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-31:\\drawable-xxhdpi\\ic_bombillaoff.png"
+        "merged": "com.example.myapplication.app-merged_res-29:/drawable-xhdpi_ic_bombillaoff.png.flat",
+        "source": "com.example.myapplication.app-main-31:/drawable-xhdpi/ic_bombillaoff.png"
     },
     {
-        "merged": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\drawable-xxhdpi_ic_action_name.png.flat",
-        "source": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-31:\\drawable-xxhdpi\\ic_action_name.png"
+        "merged": "com.example.myapplication.app-merged_res-29:/drawable-anydpi_ic_bombillaroja.xml.flat",
+        "source": "com.example.myapplication.app-main-31:/drawable-anydpi/ic_bombillaroja.xml"
     },
     {
-        "merged": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-31:\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "com.example.myapplication.app-merged_res-29:/drawable-anydpi_ic_action_name.xml.flat",
+        "source": "com.example.myapplication.app-main-31:/drawable-anydpi/ic_action_name.xml"
     },
     {
-        "merged": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\drawable-xxhdpi_ic_estrellanegra.png.flat",
-        "source": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-debug-30:\\drawable-xxhdpi\\ic_estrellanegra.png"
+        "merged": "com.example.myapplication.app-merged_res-29:/drawable-anydpi_ic_bombillaoff.xml.flat",
+        "source": "com.example.myapplication.app-main-31:/drawable-anydpi/ic_bombillaoff.xml"
     },
     {
-        "merged": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-31:\\drawable\\ic_launcher_background.xml"
+        "merged": "com.example.myapplication.app-merged_res-29:/drawable-xxhdpi_ic_bombillaamarilla.png.flat",
+        "source": "com.example.myapplication.app-main-31:/drawable-xxhdpi/ic_bombillaamarilla.png"
     },
     {
-        "merged": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\layout_activity_fondo_estrella.xml.flat",
-        "source": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-31:\\layout\\activity_fondo_estrella.xml"
+        "merged": "com.example.myapplication.app-merged_res-29:/drawable-mdpi_ic_estrellanegra.png.flat",
+        "source": "com.example.myapplication.app-debug-30:/drawable-mdpi/ic_estrellanegra.png"
     },
     {
-        "merged": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-31:\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "com.example.myapplication.app-merged_res-29:/drawable-mdpi_ic_bombillaoff.png.flat",
+        "source": "com.example.myapplication.app-main-31:/drawable-mdpi/ic_bombillaoff.png"
     },
     {
-        "merged": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\layout_activity_logos.xml.flat",
-        "source": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-31:\\layout\\activity_logos.xml"
+        "merged": "com.example.myapplication.app-merged_res-29:/drawable-mdpi_ic_action_name.png.flat",
+        "source": "com.example.myapplication.app-main-31:/drawable-mdpi/ic_action_name.png"
     },
     {
-        "merged": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\layout_activity_calculadora.xml.flat",
-        "source": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-31:\\layout\\activity_calculadora.xml"
+        "merged": "com.example.myapplication.app-merged_res-29:/drawable-hdpi_ic_bombillaroja.png.flat",
+        "source": "com.example.myapplication.app-main-31:/drawable-hdpi/ic_bombillaroja.png"
     },
     {
-        "merged": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-31:\\layout\\activity_main.xml"
+        "merged": "com.example.myapplication.app-merged_res-29:/drawable-mdpi_ic_bombillaamarilla.png.flat",
+        "source": "com.example.myapplication.app-main-31:/drawable-mdpi/ic_bombillaamarilla.png"
     },
     {
-        "merged": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-31:\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "com.example.myapplication.app-merged_res-29:/drawable-mdpi_ic_bombillaroja.png.flat",
+        "source": "com.example.myapplication.app-main-31:/drawable-mdpi/ic_bombillaroja.png"
     },
     {
-        "merged": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\drawable-xxhdpi_ic_bombillaroja.png.flat",
-        "source": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-31:\\drawable-xxhdpi\\ic_bombillaroja.png"
+        "merged": "com.example.myapplication.app-merged_res-29:/drawable_google.png.flat",
+        "source": "com.example.myapplication.app-main-31:/drawable/google.png"
     },
     {
-        "merged": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\drawable-v24_bing.jpg.flat",
-        "source": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-31:\\drawable-v24\\bing.jpg"
+        "merged": "com.example.myapplication.app-merged_res-29:/xml_backup_rules.xml.flat",
+        "source": "com.example.myapplication.app-main-31:/xml/backup_rules.xml"
     },
     {
-        "merged": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-31:\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "com.example.myapplication.app-merged_res-29:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.myapplication.app-main-31:/drawable-v24/ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\drawable-xhdpi_ic_estrellamorada.png.flat",
-        "source": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-debug-30:\\drawable-xhdpi\\ic_estrellamorada.png"
+        "merged": "com.example.myapplication.app-merged_res-29:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.myapplication.app-main-31:/mipmap-xhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\drawable-v24_yahoo.png.flat",
-        "source": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-31:\\drawable-v24\\yahoo.png"
+        "merged": "com.example.myapplication.app-merged_res-29:/layout_activity_fondo_estrella.xml.flat",
+        "source": "com.example.myapplication.app-main-31:/layout/activity_fondo_estrella.xml"
     },
     {
-        "merged": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-31:\\xml\\backup_rules.xml"
+        "merged": "com.example.myapplication.app-merged_res-29:/drawable-xhdpi_ic_bombillaamarilla.png.flat",
+        "source": "com.example.myapplication.app-main-31:/drawable-xhdpi/ic_bombillaamarilla.png"
     },
     {
-        "merged": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-31:\\drawable-v24\\ic_launcher_foreground.xml"
+        "merged": "com.example.myapplication.app-merged_res-29:/drawable-hdpi_ic_action_name.png.flat",
+        "source": "com.example.myapplication.app-main-31:/drawable-hdpi/ic_action_name.png"
     },
     {
-        "merged": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\drawable-mdpi_ic_estrellanegra.png.flat",
-        "source": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-debug-30:\\drawable-mdpi\\ic_estrellanegra.png"
+        "merged": "com.example.myapplication.app-merged_res-29:/drawable-hdpi_ic_bombillaoff.png.flat",
+        "source": "com.example.myapplication.app-main-31:/drawable-hdpi/ic_bombillaoff.png"
     },
     {
-        "merged": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\drawable-xhdpi_ic_bombillaroja.png.flat",
-        "source": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-31:\\drawable-xhdpi\\ic_bombillaroja.png"
+        "merged": "com.example.myapplication.app-merged_res-29:/drawable-xxhdpi_ic_estrellamorada.png.flat",
+        "source": "com.example.myapplication.app-debug-30:/drawable-xxhdpi/ic_estrellamorada.png"
     },
     {
-        "merged": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\drawable-hdpi_ic_estrellamorada.png.flat",
-        "source": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-debug-30:\\drawable-hdpi\\ic_estrellamorada.png"
+        "merged": "com.example.myapplication.app-merged_res-29:/drawable-mdpi_ic_estrellamorada.png.flat",
+        "source": "com.example.myapplication.app-debug-30:/drawable-mdpi/ic_estrellamorada.png"
     },
     {
-        "merged": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\drawable-hdpi_ic_bombillaroja.png.flat",
-        "source": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-31:\\drawable-hdpi\\ic_bombillaroja.png"
+        "merged": "com.example.myapplication.app-merged_res-29:/drawable-xhdpi_ic_estrellamorada.png.flat",
+        "source": "com.example.myapplication.app-debug-30:/drawable-xhdpi/ic_estrellamorada.png"
     },
     {
-        "merged": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-31:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "com.example.myapplication.app-merged_res-29:/drawable-xhdpi_ic_estrellanegra.png.flat",
+        "source": "com.example.myapplication.app-debug-30:/drawable-xhdpi/ic_estrellanegra.png"
     },
     {
-        "merged": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\drawable-mdpi_ic_estrellamorada.png.flat",
-        "source": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-debug-30:\\drawable-mdpi\\ic_estrellamorada.png"
+        "merged": "com.example.myapplication.app-merged_res-29:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.myapplication.app-main-31:/mipmap-hdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\drawable-xhdpi_ic_bombillaamarilla.png.flat",
-        "source": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-31:\\drawable-xhdpi\\ic_bombillaamarilla.png"
+        "merged": "com.example.myapplication.app-merged_res-29:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.myapplication.app-main-31:/xml/data_extraction_rules.xml"
     },
     {
-        "merged": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\drawable-hdpi_ic_bombillaamarilla.png.flat",
-        "source": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-31:\\drawable-hdpi\\ic_bombillaamarilla.png"
+        "merged": "com.example.myapplication.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.myapplication.app-main-31:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\drawable-xhdpi_ic_estrellanegra.png.flat",
-        "source": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-debug-30:\\drawable-xhdpi\\ic_estrellanegra.png"
+        "merged": "com.example.myapplication.app-merged_res-29:/layout_activity_logos.xml.flat",
+        "source": "com.example.myapplication.app-main-31:/layout/activity_logos.xml"
     },
     {
-        "merged": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\drawable-mdpi_ic_bombillaamarilla.png.flat",
-        "source": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-31:\\drawable-mdpi\\ic_bombillaamarilla.png"
+        "merged": "com.example.myapplication.app-merged_res-29:/layout_activity_calculadora.xml.flat",
+        "source": "com.example.myapplication.app-main-31:/layout/activity_calculadora.xml"
     },
     {
-        "merged": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\drawable-xhdpi_ic_action_name.png.flat",
-        "source": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-31:\\drawable-xhdpi\\ic_action_name.png"
+        "merged": "com.example.myapplication.app-merged_res-29:/drawable-anydpi_ic_bombillaamarilla.xml.flat",
+        "source": "com.example.myapplication.app-main-31:/drawable-anydpi/ic_bombillaamarilla.xml"
     },
     {
-        "merged": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\drawable-anydpi_ic_estrellanegra.xml.flat",
-        "source": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-debug-30:\\drawable-anydpi\\ic_estrellanegra.xml"
+        "merged": "com.example.myapplication.app-merged_res-29:/drawable-v24_yahoo.png.flat",
+        "source": "com.example.myapplication.app-main-31:/drawable-v24/yahoo.png"
     },
     {
-        "merged": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\drawable-xhdpi_ic_bombillaoff.png.flat",
-        "source": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-31:\\drawable-xhdpi\\ic_bombillaoff.png"
+        "merged": "com.example.myapplication.app-merged_res-29:/drawable-hdpi_ic_estrellanegra.png.flat",
+        "source": "com.example.myapplication.app-debug-30:/drawable-hdpi/ic_estrellanegra.png"
     },
     {
-        "merged": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\drawable-mdpi_ic_action_name.png.flat",
-        "source": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-31:\\drawable-mdpi\\ic_action_name.png"
+        "merged": "com.example.myapplication.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "com.example.myapplication.app-main-31:/layout/activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-31:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "com.example.myapplication.app-merged_res-29:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.myapplication.app-main-31:/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\drawable_yahoo.png.flat",
-        "source": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-31:\\drawable\\yahoo.png"
+        "merged": "com.example.myapplication.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.myapplication.app-main-31:/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\drawable-mdpi_ic_bombillaoff.png.flat",
-        "source": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-31:\\drawable-mdpi\\ic_bombillaoff.png"
+        "merged": "com.example.myapplication.app-merged_res-29:/drawable-hdpi_ic_bombillaamarilla.png.flat",
+        "source": "com.example.myapplication.app-main-31:/drawable-hdpi/ic_bombillaamarilla.png"
     },
     {
-        "merged": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\drawable-anydpi_ic_bombillaamarilla.xml.flat",
-        "source": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-31:\\drawable-anydpi\\ic_bombillaamarilla.xml"
+        "merged": "com.example.myapplication.app-merged_res-29:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.myapplication.app-main-31:/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\drawable-xxhdpi_ic_bombillaamarilla.png.flat",
-        "source": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-31:\\drawable-xxhdpi\\ic_bombillaamarilla.png"
+        "merged": "com.example.myapplication.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.myapplication.app-main-31:/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\drawable-anydpi_ic_estrellamorada.xml.flat",
-        "source": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-debug-30:\\drawable-anydpi\\ic_estrellamorada.xml"
+        "merged": "com.example.myapplication.app-merged_res-29:/drawable-xxhdpi_ic_bombillaroja.png.flat",
+        "source": "com.example.myapplication.app-main-31:/drawable-xxhdpi/ic_bombillaroja.png"
     },
     {
-        "merged": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\drawable-anydpi_ic_action_name.xml.flat",
-        "source": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-31:\\drawable-anydpi\\ic_action_name.xml"
-    },
-    {
-        "merged": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\drawable-anydpi_ic_bombillaoff.xml.flat",
-        "source": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-31:\\drawable-anydpi\\ic_bombillaoff.xml"
-    },
-    {
-        "merged": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\drawable_google.png.flat",
-        "source": "C:\\Users\\brian\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-31:\\drawable\\google.png"
+        "merged": "com.example.myapplication.app-merged_res-29:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.myapplication.app-main-31:/mipmap-xxhdpi/ic_launcher.webp"
     }
 ]
