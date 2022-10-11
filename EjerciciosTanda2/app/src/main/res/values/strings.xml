@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">EjerciciosTanda2</string>
+    <string name="sumaTon">SUMATON</string>
+    <string name="robarDatos">Formulario</string>
+    <string name="condiciones">condiciones</string>
+    <string name="loMio">Ejercicio 4</string>
+    <string name="titulo">EJERCICIOS</string>
+    <string name="tituloSuma">SUMA</string>
+    <string name="igual">=</string>
+    <string name="mas">+</string>
+    <string name="btnComprobar">COMPROBAR RESULTADO</string>
+
+
+
+</resources>
