@@ -19,6 +19,14 @@ public class SumaTon extends AppCompatActivity {
         etNumero2 = findViewById(R.id.etNumero2);
         etResultado = findViewById(R.id.etResultado);
 
+        btnComprobar = findViewById(R.id.btnComprobar);
 
+        //Desabilitamos la edicion y ponemos los numeros aleatorios
+        int n1 = (int) (Math.random()*100+1);
+        int n2 = (int) (Math.random()*100+1);
+        etNumero1.setText(String.valueOf(n1));
+        etNumero2.setText(String.valueOf(n2));
+        etNumero1.setEnabled(false);
+        etNumero2.setEnabled(false);
     }
 }
