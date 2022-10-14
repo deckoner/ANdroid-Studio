@@ -9,7 +9,11 @@
     <string name="igual">=</string>
     <string name="mas">+</string>
     <string name="btnComprobar">COMPROBAR RESULTADO</string>
-
-
-
+    <string name="correcto">CORRECTO</string>
+    <string name="incorrecto">INCORRECTO</string>
+    <string name="volver">VOLVER</string>
+    <string name="Resultado">El resultado de la operacion es</string>
+    <string name="textoCorrecto">PREGUNTAS CORRECTAS</string>
+    <string name="incorrectas">INCORRECTAS</string>
+    <string name="nombre">Nombre:</string>
 </resources>
