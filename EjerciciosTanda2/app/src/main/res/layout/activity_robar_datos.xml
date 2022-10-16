@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:layout_margin="10dp"
     android:orientation="vertical"
     tools:context=".RobarDatos">
 
@@ -19,12 +20,11 @@
             android:textSize="18sp" />
 
         <EditText
-            android:id="@+id/editTextTextPersonName3"
+            android:id="@+id/etNombre"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:ems="10"
-            android:inputType="textPersonName"
-            android:text="Name" />
+            android:inputType="textPersonName" />
     </LinearLayout>
 
     <LinearLayout
@@ -39,18 +39,17 @@
             android:textSize="18sp" />
 
         <EditText
-            android:id="@+id/editTextTextPersonName4"
+            android:id="@+id/etApellidos"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:ems="10"
-            android:inputType="textPersonName"
-            android:text="Name" />
+            android:inputType="textPersonName" />
     </LinearLayout>
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="155dp">
+        android:layout_height="wrap_content">
 
         <TextView
             android:id="@+id/textView14"
@@ -60,29 +59,24 @@
             android:textSize="18sp" />
 
         <RadioGroup
+            android:id="@+id/rbGeneroEleccion"
             android:layout_width="match_parent"
-            android:layout_height="match_parent">
+            android:layout_height="wrap_content">
 
             <RadioButton
-                android:id="@+id/radioButton5"
+                android:id="@+id/rbHombre"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="1dp"
                 android:text="Hombre" />
 
             <RadioButton
-                android:id="@+id/radioButton6"
+                android:id="@+id/rbMujer"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="1dp"
                 android:text="Mujer" />
 
-            <RadioButton
-                android:id="@+id/radioButton4"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_margin="1dp"
-                android:text="¿Que ez ezo?" />
         </RadioGroup>
     </LinearLayout>
 
@@ -92,39 +86,60 @@
 
         <TextView
             android:id="@+id/textView15"
-            android:layout_width="match_parent"
+            android:layout_width="80dp"
             android:layout_height="wrap_content"
-            android:text="Aficiones"
+            android:text="@string/aficiones"
             android:textSize="18sp" />
 
         <CheckBox
-            android:id="@+id/checkBox6"
-            android:layout_width="wrap_content"
+            android:id="@+id/cbLibros"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="CheckBox" />
+            android:text="@string/libros" />
 
     </LinearLayout>
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
 
         <CheckBox
-            android:id="@+id/checkBox5"
+            android:id="@+id/cbVideojuegos"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="CheckBox" />
-    </LinearLayout>
-
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+            android:layout_marginLeft="80dp"
+            android:text="@string/videojuegos" />
 
         <CheckBox
-            android:id="@+id/checkBox5"
+            android:id="@+id/cbHedonismo"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="CheckBox" />
+            android:layout_marginLeft="80dp"
+            android:text="@string/hedonismo" />
+
+        <CheckBox
+            android:id="@+id/cbFicha"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="80dp"
+            android:layout_weight="1"
+            android:text="@string/tirar_fichas" />
+
+        <CheckBox
+            android:id="@+id/cbJugger"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="80dp"
+            android:layout_weight="1"
+            android:text="@string/jugger" />
+
     </LinearLayout>
+
+    <Button
+        android:id="@+id/btEnviar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Enviar" />
 </LinearLayout>

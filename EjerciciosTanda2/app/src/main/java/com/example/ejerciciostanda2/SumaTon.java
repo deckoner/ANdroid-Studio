@@ -36,17 +36,15 @@ public class SumaTon extends AppCompatActivity {
         int contadoCorrecto = 0;
         int contadorIncorrecto = 0;
 
-        Bundle b = new Bundle();
-        int correcto = b.getInt("correct");
 
-        //Añadimos a la puntuacion dependiendo si ha acertado o no
-        if (correcto == 1){
-            contadoCorrecto++;
-        } else {
-            contadorIncorrecto++;
-        }
+//        //Añadimos a la puntuacion dependiendo si ha acertado o no
+//        if (correcto == 1){
+//            contadoCorrecto++;
+//        } else {
+//            contadorIncorrecto++;
+//        }
 
-        tvContadores.setText(R.string.textoCorrecto + contadoCorrecto + R.string.incorrectas + contadorIncorrecto);
+//        tvContadores.setText(R.string.textoCorrecto + contadoCorrecto + R.string.incorrectas + contadorIncorrecto);
 
         //Desabilitamos la edicion y ponemos los numeros aleatorios
         etNumero1.setText(String.valueOf(n1));

@@ -16,4 +16,10 @@
     <string name="textoCorrecto">PREGUNTAS CORRECTAS</string>
     <string name="incorrectas">INCORRECTAS</string>
     <string name="nombre">Nombre:</string>
+    <string name="aficiones">Aficiones</string>
+    <string name="libros">Libros</string>
+    <string name="videojuegos">Videojuegos</string>
+    <string name="hedonismo">hedonismo</string>
+    <string name="tirar_fichas">Tirar fichas</string>
+    <string name="jugger">Jugger</string>
 </resources>
