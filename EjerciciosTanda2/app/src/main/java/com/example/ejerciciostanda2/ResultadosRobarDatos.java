@@ -27,6 +27,5 @@ public class ResultadosRobarDatos extends AppCompatActivity {
         String resultado ="Nombre: " + nombre + "\nApellidos: " + apellido + "\nGenero: " + genero;
 
         tvResultado.setText(resultado);
-
     }
 }

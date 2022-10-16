@@ -21,6 +21,13 @@ public class MainActivity extends AppCompatActivity {
         btnRoboDatos = findViewById(R.id.btnRoboDatos);
         btnLoMio = findViewById(R.id.btnLoMio);
 
+        btnCOndiciones.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                Intent intent = new Intent(MainActivity.this, Condiciones.class);
+                startActivity(intent);
+            }
+        });
+
         btnSumaton.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
                 Intent intent = new Intent(MainActivity.this, SumaTon.class);
