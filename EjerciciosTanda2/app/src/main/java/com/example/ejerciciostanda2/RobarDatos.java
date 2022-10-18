@@ -67,7 +67,7 @@ public class RobarDatos extends AppCompatActivity {
                 }
                 intent.putExtra("aficiones", aficionesListas);
 
-                startActivity(intent);
+                startActivityForResult(intent, 1);
             }
         });
     }
