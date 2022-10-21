@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Lista Y Intenciones</string>
+    <string name="ejercicios_listas_y_intenciones">Ejercicios Listas y Intenciones</string>
+    <string name="paises_y_poblaciones">Paises y Poblaciones</string>
+    <string name="paginas_de_interes">Paginas de interes</string>
+    <string name="ejercicio_libre">Ejercicio libre</string>
 </resources>

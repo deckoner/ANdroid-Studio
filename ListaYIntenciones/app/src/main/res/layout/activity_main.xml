@@ -5,17 +5,37 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".MainActivity" >
-
-    <Spinner
-        android:id="@+id/sPaises"
-        android:layout_width="match_parent"
-        android:layout_height="43dp"
-        android:entries="@array/paises" />
+    tools:context=".MainActivity">
 
     <TextView
-        android:id="@+id/tvResultado"
+        android:id="@+id/textView"
         android:layout_width="match_parent"
-        android:layout_height="80dp" />
+        android:layout_height="69dp"
+        android:gravity="center"
+        android:text="@string/ejercicios_listas_y_intenciones"
+        android:textSize="20sp" />
 
+    <Button
+        android:id="@+id/btnPaises"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="25dp"
+        android:text="@string/paises_y_poblaciones" />
+
+    <Button
+        android:id="@+id/btnPaginas"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="25dp"
+        android:text="@string/paginas_de_interes" />
+
+    <Button
+        android:id="@+id/btnEjercicioL"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="25dp"
+        android:text="@string/ejercicio_libre" />
 </LinearLayout>
