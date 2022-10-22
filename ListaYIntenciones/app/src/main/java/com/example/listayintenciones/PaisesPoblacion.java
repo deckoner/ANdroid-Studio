@@ -8,7 +8,7 @@ import android.widget.AdapterView;
 import android.widget.Spinner;
 import android.widget.TextView;
 
-public class paisesPoblacion extends AppCompatActivity {
+public class PaisesPoblacion extends AppCompatActivity {
 
     private Spinner sPaises;
     private TextView tvResultado;

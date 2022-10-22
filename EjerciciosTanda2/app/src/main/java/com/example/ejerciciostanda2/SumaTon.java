@@ -43,7 +43,7 @@ public class SumaTon extends AppCompatActivity {
 //        } else {
 //            contadorIncorrecto++;
 //        }
-
+//
 //        tvContadores.setText(R.string.textoCorrecto + contadoCorrecto + R.string.incorrectas + contadorIncorrecto);
 
         //Desabilitamos la edicion y ponemos los numeros aleatorios
@@ -59,7 +59,7 @@ public class SumaTon extends AppCompatActivity {
                 intent.putExtra("numero2", n2);
                 intent.putExtra("resultado", Integer.parseInt(String.valueOf(etResultado.getText())));
 
-                startActivity(intent);
+                startActivityForResult(intent, 1);
             }
         });
     }
