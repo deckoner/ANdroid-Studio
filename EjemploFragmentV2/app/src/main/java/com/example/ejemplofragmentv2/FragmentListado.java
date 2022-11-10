@@ -1,6 +1,7 @@
 package com.example.ejemplofragmentv2;
 
 import android.app.Activity;
+import android.graphics.drawable.Drawable;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -15,16 +16,33 @@ import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
 
 public class FragmentListado extends Fragment {
-    private Correo[] datos = new Correo [] {
-            new Correo ("Persona 1", "Asunto del correo 1", "Texto del Correo 1"),
-            new Correo ("Persona 2", "Asunto del correo 2", "Texto del Correo 2"),
-            new Correo ("Persona 3", "Asunto del correo 3", "Texto del Correo 3"),
-            new Correo ("Persona 4", "Asunto del correo 4", "Texto del Correo 4"),
-            new Correo ("Persona 5", "Asunto del correo 5", "Texto del Correo 5"),
-            new Correo ("Persona 6", "Asunto del correo 6", "Texto del Correo 6"),
-            new Correo ("Persona 7", "Asunto del correo 7", "Texto del Correo 7")};
+    private Libro[] datos = new Libro[] {
+            new Libro("La casa en el mar mas azul", "TJ Klune",
+                    "Muy posiblemente sea uno de los libros que haya leido que mejor " +
+                            "lleguen al corazon, no por su romance (cosa que es muy muy secundaria " +
+                            "y hasta casi el final del libro no aparece), si no que Klune ha " +
+                            "construido una serie de niños creibles para el lector y como diria " +
+                            "el propio autor unos muy especiales.", R.drawable.marmasazul),
+
+            new Libro("El imperio final", "Brandon Sanderson",
+                    "En resumen este señor es dios y deberias leerte todos sus libros " +
+                            "punto y fin", R.drawable.impreiofinal),
+
+            new Libro("Oliver Twist", "Charles Dickens",
+                    "Cuenta las desventuras de un niño huerfano, desdichado, donde " +
+                            "obviamente los malos son la gente pobre y los buenos son la clase " +
+                            "alta de londres por que si algo era Charles Dickens era clasista, " +
+                            "un clasista de mucho cuidad.", R.drawable.oliver),
+
+            new Libro("El arte de la guerra", "Sun Tzu",
+                    "Un libro con enseñanzas muy buenas para la vida cotidia, sobretodo " +
+                            "si tienes vecionos molestos o en algun momento decides comvertirte en " +
+                            "un señor de la guerra o simplemente aplastar a tus enemigos en una " +
+                            "partidita de Age of Empire claramente amistosa", R.drawable.arte)
+    };
+
     private ListView lstListado;
-    private CorreoListener listener;
+    private LibroListener listener;
 
     @Nullable
     @Override
@@ -33,28 +51,31 @@ public class FragmentListado extends Fragment {
                              @Nullable Bundle savedInstanceState) {
         return inflater.inflate(R.layout.fragment_listado, container, false);
     }
+
     @Override
     public void onActivityCreated(@Nullable Bundle savedInstanceState) {
         super.onActivityCreated(savedInstanceState);
         lstListado = (ListView)getView().findViewById(R.id.lstListado);
-        lstListado.setAdapter(new AdaptadorCorreos(this));
-//Asignamos el evento onItemClick() a la lista de los correos
+        lstListado.setAdapter(new AdaptadorLibros(this));
+
+        //Asignamos el evento onItemClick() a la lista de los libros
         lstListado.setOnItemClickListener(new OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> parent,
                                     View view, int position, long id) {
                 if (listener != null)
                     listener.onCorreoSeleccionado(
-                            (Correo)lstListado.getAdapter().getItem(position));
+                            (Libro)lstListado.getAdapter().getItem(position));
             }
         });
     }
-    class AdaptadorCorreos extends ArrayAdapter<Correo> {
+    class AdaptadorLibros extends ArrayAdapter<Libro> {
         Activity context;
-        AdaptadorCorreos(Fragment context) {
+        AdaptadorLibros(Fragment context) {
             super(context.getActivity(), R.layout.listitem_correo, datos);
             this.context = context.getActivity();
         }
+
         @NonNull
         @Override
         public View getView(int position,
@@ -63,17 +84,14 @@ public class FragmentListado extends Fragment {
             LayoutInflater inflater = context.getLayoutInflater();
             View item = inflater.inflate(R.layout.listitem_correo, null);
             TextView lblDe = (TextView) item.findViewById(R.id.lblDe);
-            lblDe.setText(datos[position].getDe());
+            lblDe.setText(datos[position].getLibroTitulo());
             TextView lblAsunto = (TextView)item.findViewById(R.id.lblAsunto);
             lblAsunto.setText(datos[position].getAsunto());
             return (item);
         }
     }
 
-    // public interface CorreoListener {
-    // void onCorreoSeleccionado(Correo c);
-    // }
-    public void setCorreoListener (CorreoListener listener){
+    public void setLibroListener(LibroListener listener){
         this.listener = listener;
     }
 }
