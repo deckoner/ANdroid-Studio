@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">examen</string>
+    <string name="examen_prom_brian">Examen PROM Brian</string>
+    <string name="actividad_1">Actividad 1</string>
+    <string name="actividad_2">Actividad 2</string>
+    <string name="salir">Salir</string>
+    <string name="viajes_icjardin">Viajes ICJardin</string>
+    <string name="fecha">Fecha</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="origen">Origen</string>
+    <string name="destino">Destino</string>
+    <string name="selecionar_una_hora_de_salida">Selecionar una hora de salida:</string>
+    <string name="aceptar">ACEPTAR</string>
+    <string name="cancelar">CANCELAR</string>
+</resources>

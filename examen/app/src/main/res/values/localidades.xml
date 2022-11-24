@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="localidades">
+        <item>Bilbao</item>
+        <item>Donosti</item>
+        <item>Gasteiz</item>
+        <item>Laguardia</item>
+        <item>Lekeitio</item>
+        <item>Santurtzi</item>
+        <item>Laudio</item>
+    </string-array>
+</resources>

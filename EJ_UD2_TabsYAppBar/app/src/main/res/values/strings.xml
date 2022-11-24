@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Whatsapp</string>
+    <string name="tab1">Chats</string>
+    <string name="tab2">Contactos</string>
+    <string name="tab3">Llamadas</string>
+    <string name="mensaje">Mensaje Mensaje Mensaje Mensaje</string>
+    <string name="nombre">Nombre</string>
+    <string name="imagendeperfil">ImagenDePerfil</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="llamada_entrante">Llamada entrante</string>
+    <string name="llamada_saliente">Llamada saliente</string>
+    <string name="title_activity_tabs_app_bar">TabsAppBarActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="action_buscar">Buscar</string>
+</resources>
